@@ -1,8 +1,6 @@
-{
-"name" : "Test",
-"string1" : "First",
-"string2" : "Second",
-"num1" : 1,
-"num2" : 2,
-"array1" : ["ArrayFirst", "ArraySecond", "ArrayThird"]
-}
+[
+  {"Score": 9934, "Name": "Jorge"}, 
+  {"Score": 823, "Name": "Ciruelo"}, 
+  {"Score": 2354, "Name" : "Test"},
+]
+
